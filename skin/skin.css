@@ -1,0 +1,16 @@
+@charset "gb2312";
+
+#buttom{background-image:url(../img/left_bg.jpg); background-repeat:repeat-y; color:#FFF;}
+
+/*底部式样设计1*/
+#style1{ color:#FFFFFF;}
+#style1 a:link {text-decoration:underline;color:#FFF;}
+#style1 a:visited {text-decoration:underline;color: #FFF;}
+#style1 a:hover {text-decoration:underline;color: #FFF;}
+#style1 a:active {text-decoration:underline;color: #FFF;}
+/*底部式样设计2*/
+#style2{ color:#568200;}
+#style2 a:link {text-decoration:none;color:#404743;font-weight:bold;}
+#style2 a:visited {text-decoration:none;color: #404743;font-weight:bold;}
+#style2 a:hover {text-decoration:underline;color:#404743;font-weight:bold;}
+#style2 a:active {text-decoration:none;color:#404743;font-weight:bold;}
